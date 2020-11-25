@@ -17,6 +17,8 @@ export default {
                 { title: "Calender", to:"/calender" },
                 { title: "Markdown", to:"/markdown" },
                 { title: "Slider Carousel", to:"/slider" },
+                { title: "Calculator", to:"/calculator" },
+                { title: "Modal", to:"/reusable-modal" },
                 ]
         }
     },
